@@ -10,7 +10,6 @@ A mini LinkedIn-like platform where users can register, log in, create posts, an
 - **Frontend (React + Vite)**: [https://your-frontend.netlify.app](https://mini-linked-in.netlify.app/)
 - **Backend (Node + Express)**: [https://your-backend.onrender.com](https://mini-linkedin-j7id.onrender.com)
 
-> Replace these URLs with your actual deployed links.
 
 ---
 
@@ -38,9 +37,9 @@ You can use the following test users to log in:
 
 | Name        | Email              | Password  |
 |-------------|--------------------|-----------|
-| Alice Patel | alice@example.com  | test1234  |
+| Manali      | manali@gmail.co    | manali123  |
 | Bob Verma   | bob@example.com    | test1234  |
-| Clara Singh | clara@example.com  | test1234  |
+| Manoj       | manoj@gmail.com    | manoj123  |
 | Dave Kumar  | dave@example.com   | test1234  |
 
 ---
