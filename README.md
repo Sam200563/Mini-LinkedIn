@@ -7,8 +7,8 @@ A mini LinkedIn-like platform where users can register, log in, create posts, an
 
 ## 🚀 Live Demo
 
-- **Frontend (React + Vite)**: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-- **Backend (Node + Express)**: [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- **Frontend (React + Vite)**: [https://your-frontend.netlify.app](https://mini-linked-in.netlify.app/)
+- **Backend (Node + Express)**: [https://your-backend.onrender.com](https://mini-linkedin-j7id.onrender.com)
 
 > Replace these URLs with your actual deployed links.
 
